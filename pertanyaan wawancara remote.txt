@@ -1,0 +1,15 @@
+pertanyaan javascript:
+1. block scope
+2. lexical scope
+3. swallow copy & deep copy
+4. pop up box
+5. pelajari method yang sering di gunakan di JS
+6. pelajari tipe data
+7. null dan undifine itu bedanya apa
+8.promise chain
+9.truty dan falsy
+10.infinite currying
+11.funtion declation & function ekspretion
+
+pertanyaan html :
+1. 

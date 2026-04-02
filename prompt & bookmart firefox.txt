@@ -1,0 +1,28 @@
+key UPWORK "
+
+1. HTML CSS small website
+2. Fix responsive layout
+3. Frontend junior task
+
+yang harus ada :
+1. landing page (html,css)
+2. menguasai responsive hanya dengan css
+3. memindahkan dari canfa / figma ke project html css
+
+hari ini :
+1. membuat prompt ke gemini membuat website penuh html,css,js dengan style    
+   tertentu.
+
+website : 
+1. https://poomo.webflow.io/
+https://upwize-ecom.webflow.io/
+
+bookmart firefox :
+1. https://e-arsip.skkmigas.go.id/paradm/dms/ListDmsPublicRoot.do?isLogin=Y =>
+ username : arsip.pau
+ pass :arsip2026bsd
+
+2. Bahasa inggris : https://manybooks.net/book/399627/read#epubcfi(/6/14[section-0005_xhtml]!/4/10/4/1:0)
+
+my video channel:
+https://www.youtube.com/shorts/03TM2a9r4GE
