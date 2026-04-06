@@ -1,0 +1,159 @@
+ ingin membuat website makanan ringan:
+1 landing page untuk penjelasan produk
+2 katalog product
+3 fitur card / keranjang
+4.fitur checkout -> integrasi shiping dan integrasi payment
+5 baseone data order setelah di submit ke nomor whatapp berdasarkan input buyer
+6 profile account buyer
+
+referensi design :
+https://
+
+ingin membuat website minuman :
+- Frontend: Next.js
+- Styling: Tailwind CSS
+- Backend: Supabase untuk autentikasi dan database
+
+dengan fiture sebagai berikut:
+
+1 Mulai dengan membangun halaman dashboard utama yang mencakup:
+- Header dengan navigasi
+- Daftar proyek dengan status
+- CTA untuk pemesanan minuman
+
+2 Tentang Kami: [Informasi tentang bisnis/tim/misi]
+3 Produk/Layanan: [Daftar produk/jasa dengan deskripsi, harga, dan gambar]
+4 Portofolio/Galeri: [Jika diperlukan, untuk showcase karya]
+5 Kontak: [Formulir, alamat, nomor telepon, media sosial]
+
+Terapkan praktik terbaik SEO:
+- Tambahkan tag judul yang dioptimalkan berdasarkan konten halaman
+- Buat deskripsi meta yang menarik untuk meningkatkan rasio klik
+- Sertakan kata kunci yang relevan berdasarkan konten
+- Buat file sitemap.xml dan robots.txt untuk pengindeksan yang efisien
+
+Buat aplikasi sepenuhnya responsif untuk perangkat mobile, tablet, dan desktop
+
+bahasa inggris:
+
+want to create a beverage website:
+- Frontend: react js
+- Style: Tailwind CSS
+- Backend: Supabase for authentication and database
+
+with the following features:
+
+1 Start by building a main dashboard page that includes: -> page pertama
+- Header with navigation
+- Project list with status
+- CTA for beverage ordering
+- add testimoni 8 comment with crousel section before foother
+
+2 About Us: [Information about your business/team/mission] -> page kedua
+3 Products/Services: [List of products/services with descriptions, prices, and images] -> page ketiga
+4 Portfolio/Gallery: [If needed, to showcase your work] -> page ke empat
+5 Contact: [Form, address, phone number, social media] -> page ke lima
+
+Implement best SEO practices:
+- Add optimized title tags based on page content
+- Create compelling meta descriptions to increase click-through rates
+- Include relevant keywords based on content
+- Create sitemap.xml and robots.txt files for efficient indexing
+
+Create a fully responsive application for mobile, tablet, and desktop devices
+
+
+referensi design :https://pointcoffee.id/
+
+
+  
+
+
+ingin membuat website landing page :
+- Frontend: Next.js
+- Styling: Tailwind CSS
+
+dengan fiture sebagai berikut:
+
+1 Mulai dengan membangun halaman dashboard utama yang mencakup:
+- Header dengan navigasi
+- brand dengan 8 icon
+- about
+- galery bila di hover menjadi pop up image
+- contact us dengan tampilan form
+- CTA untuk pemesanan minuman
+- foother
+
+2 gunakan Scroll Animation disetiap sectionnya
+
+3 Terapkan praktik terbaik SEO:
+- Tambahkan tag judul yang dioptimalkan berdasarkan konten halaman
+- Buat deskripsi meta yang menarik untuk meningkatkan rasio klik
+- Sertakan kata kunci yang relevan berdasarkan konten
+- Buat file sitemap.xml dan robots.txt untuk pengindeksan yang efisien
+
+Buat aplikasi sepenuhnya responsif untuk perangkat mobile, tablet, dan desktop
+referensi design :https://belisa-fluid-demo.squarespace.com/
+
+bahasa inggris.
+
+want to create a website landing page :
+- Frontend: Next.js
+- Style: Tailwind CSS
+
+with the following features:
+
+1 Start by building a main dashboard page that includes:
+- Header with navigation 
+- branding with 8 icons
+- about
+- gallery when hovered becomes a pop up image
+- contact us via form view
+- CTA for ordering
+- footer
+
+2 use Scroll Animation in each section
+
+3 Apply best SEO practices:
+- Add optimized title tags based on page content
+- Create compelling meta descriptions to increase click-through rates
+- Include relevant keywords based on content
+- Create sitemap.xml and robots.txt files for efficient indexing
+
+font can use poppin
+I want an elegant design with colors (especially #FFFDF2 and #000000)
+
+Create a fully responsive application for mobile, tablet, and desktop devices
+design reference :https://belisa-fluid-demo.squarespace.com/
+
+
+landingpage portfolio :
+
+want to create a website landing page :
+- Frontend: Next.js
+- Style: Tailwind CSS
+
+with the following features:
+
+1 Start by building a main dashboard page that includes:
+- Header with navigation 
+- branding with 8 icons
+- about
+- gallery when hovered becomes a pop up image
+- contact us via form view
+- CTA for ordering
+- footer
+
+2 use Scroll Animation in each section
+
+3 Apply best SEO practices:
+- Add optimized title tags based on page content
+- Create compelling meta descriptions to increase click-through rates
+- Include relevant keywords based on content
+- Create sitemap.xml and robots.txt files for efficient indexing
+
+font can use poppin
+I want an elegant design with colors (especially #FFFDF2 and #000000)
+
+Create a fully responsive application for mobile, tablet, and desktop devices
+design reference :https://belisa-fluid-demo.squarespace.com/

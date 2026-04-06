@@ -1,0 +1,72 @@
+ * ARRAY METHODS (PALING WAJIB)
+
+1. Manipulasi Data
+push()      // tambah di akhir
+pop()       // hapus di akhir
+shift()     // hapus di awal
+unshift()   // tambah di awal
+
+2. Looping & Olah Data
+forEach()   // looping
+map()       // transform data
+filter()    // menyaring data
+reduce()    // hitung / gabung data
+
+
+
+3. Pencarian 
+find()      // cari 1 data
+findIndex() // cari index
+includes()  // cek ada atau tidak
+indexOf()   // cari index
+
+4. lainya
+slice()     // ambil sebagian
+splice()    // hapus / tambah di tengah
+sort()      // urutkan
+join()      // gabung jadi string
+
+5. STRING METHODS (SERING BANGET DIPAKAI)
+toUpperCase()
+toLowerCase()
+trim()
+split()
+replace()
+includes()
+substring()
+
+6. OBJECT METHODS
+Object.keys()
+Object.values()
+Object.entries()
+
+7. DOM METHODS (FRONT-END WAJIB)
+document.querySelector()
+document.querySelectorAll()
+addEventListener()
+classList.add()
+classList.remove()
+classList.toggle()
+
+8. FUNCTION & ASYNC
+setTimeout()
+setInterval()
+fetch()
+async / await
+
+9. MATH & NUMBER
+Math.random()
+Math.floor()
+Math.ceil()
+Math.round()
+Number()
+parseInt()
+parseFloat()
+
+10. POP-UP & BROWSER
+
+alert()
+confirm()
+prompt()
+localStorage.setItem()
+localStorage.getItem()

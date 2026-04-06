@@ -8,8 +8,6 @@ pertanyaan javascript:
 7. null dan undifine itu bedanya apa
 8.promise chain
 9.truty dan falsy
-10.infinite currying
-11.funtion declation & function ekspretion
 
 pertanyaan html :
 1. 
