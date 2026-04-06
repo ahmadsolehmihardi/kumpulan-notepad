@@ -1,0 +1,64 @@
+ingin membuat website design interior :
+- Frontend: Next.js
+- Styling: Tailwind CSS
+- Backend: Supabase untuk autentikasi dan database
+
+dengan fiture sebagai berikut:
+
+1 Mulai dengan membangun halaman dashboard utama yang mencakup:
+- Header dengan navigasi (tentang, inspirasi dekorasi, saran - panduan, layanan, kontak)
+- hero crousel 4 slide tambahkan cta
+- about
+- image bentuk crousel sebanyak 5 pcs
+- testimoni 5 pcs
+- CTA untuk pemesanan minuman
+
+2 Tentang Kami: [Informasi tentang bisnis/tim/misi]
+3 inspirasi dekorasi: [Daftar produk/jasa dengan deskripsi, harga, dan gambar]
+4 layanan: [Jika diperlukan, untuk showcase karya]
+5 Kontak: [Formulir, alamat, nomor telepon, media sosial]
+
+Terapkan praktik terbaik SEO:
+- Tambahkan tag judul yang dioptimalkan berdasarkan konten halaman
+- Buat deskripsi meta yang menarik untuk meningkatkan rasio klik
+- Sertakan kata kunci yang relevan berdasarkan konten
+- Buat file sitemap.xml dan robots.txt untuk pengindeksan yang efisien
+
+Buat aplikasi sepenuhnya responsif untuk perangkat mobile, tablet, dan desktop
+referensi design dan warna :https://www.naturellementcosy.com/
+
+want to create an interior design website:
+- Frontend: Next.js
+- Styling: Tailwind CSS
+
+with the following features:
+
+1 Start by building a main dashboard page that includes:
+- Header with navigation (about, decoration inspiration, advice - guide, services, contact)
+- 4 slide hero crousel add cta
+- about
+- 5 pcs crousel form images
+- 5 pcs testimonials
+- CTA for ordering drinks
+
+2 About Us: [Information about business/team/mission]
+3 decoration inspiration: [List of products/services with descriptions, prices, and images]
+4 services: [If needed, to showcase work]
+5 Contact: [Form, address, phone number, social media]
+
+6 Implement SEO best practices:
+- Add optimized title tags based on page content
+- Create an attractive meta description to increase click-through rates
+- Include relevant keywords based on content
+- Create sitemap.xml and robots.txt files for indexing efficient
+
+Create fully responsive apps for mobile, tablet and desktop devices
+design and color references: https://www.naturellementcosy.com/
+
+
+naturali cosy
+sapto celuller
+brewhaven
+coffee
+felix
+total 7
