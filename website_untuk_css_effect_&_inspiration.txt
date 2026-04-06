@@ -1,0 +1,35 @@
+Website untuk CSS Effects & Inspiration
+
+1. css-tricks.com
+2. codepen.io
+3. tuts.codrops.com
+4.https://tympanus.net/codrops/hub/tag/scroll/
+5. Web.dev (web.dev) -> belajar css js
+6. freeCodeCamp (freecodecamp.org) -> latihan css js
+6. JavaScript.info -> belajar dan latihan js
+
+Website untuk Koleksi Components
+
+1. https://animista.net/play/text/tracking-in/tracking-in-expand-fwd-top ->test macam - macam animasi 
+2. UIverse (uiverse.io) -> macam - macam Hover
+3. Hover.css (ianlunn.github.io/Hover/) -> koleksi hover button
+4. https://scrollrevealjs.org/api/constructor.html -> scroll animation
+
+istilah secroll animation
+
+1. scroll animation
+2. scroll reveal
+3. gsap scrolltrigger
+4. framer motion scroll
+5. parallax, smooth transition, sticky section
+6. "GSAP scrolltrigger tutorial"
+7. "Modern scroll animation website"
+8. "React framer motion scroll animation"
+9. "Lenis smooth scroll + GSAP"
+
+belajar section website
+1. https://www.landingfolio.com/
+2. https://www.unsection.com/category/portfolio-section-design 
+
+belajar navbar
+1.  codepen.io

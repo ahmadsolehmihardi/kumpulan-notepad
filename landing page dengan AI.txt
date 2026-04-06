@@ -1,0 +1,58 @@
+ingin membuat website landing page jasa service :
+- Frontend: react.js
+- Styling: Tailwind CSS
+
+ fiture sebagai berikut:
+
+Mulai dengan membangun halaman dashboard utama yang mencakup:
+- Header dengan navigasi
+- brand dengan 8 icon
+- about
+- galery bila di hover menjadi pop up image
+- testimoni dengan style crousel
+- contact us dengan tampilan form
+- CTA untuk pemesanan 
+= 6 icon perusahaan 
+- foother
+
+gunakan Scroll Animation dengan delay 
+
+gunakan warna dasar hitam
+
+Terapkan praktik terbaik SEO:
+- Tambahkan tag judul yang dioptimalkan berdasarkan konten halaman
+- Buat deskripsi meta yang menarik untuk meningkatkan rasio klik
+- Sertakan kata kunci yang relevan berdasarkan konten
+- Buat file sitemap.xml dan robots.txt untuk pengindeksan yang efisien
+
+Buat aplikasi sepenuhnya responsif untuk perangkat mobile, tablet, dan desktop
+
+bahsa inggris
+
+I want to create a landing page website for service services:
+- Frontend: react.js
+- Style: Tailwind CSS
+
+features as follows:
+
+Start by building a main dashboard page that includes:
+- Header with navigation
+- brand with 8 icons
+- about
+- gallery when hovered becomes a pop up image
+- testimonials with a crousel style
+- contact us via form display
+- CTA for ordering
+- foot
+
+use Scroll Animation with delay
+
+use black base color
+
+Implement best SEO practices:
+- Add optimized title tags based on page content
+- Create compelling meta descriptions to increase click rates
+- Include relevant keywords based on content
+- Create sitemap.xml and robots.txt files for efficient indexing
+
+Create a fully responsive application for mobile, tablet, and desktop devices
