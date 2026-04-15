@@ -4,13 +4,13 @@ let angka = [1,2,3,4,5];
 let namapanjang = "ahmad soleh mihardi"
 
 //push,pop,unshift,shift
-// fruits.push("manggo");
+// fruits.push("manggo"); -> menambahkan 1 index di akhir
 // console.log(fruits);
-// fruits.unshift('durian');
+// fruits.unshift('durian'); -> menambah 1 index di awal
 // console.log(fruits)
-// fruits.shift();
+// fruits.shift(); menghilangkan 1 index di awal
 // console.log(fruits)
-// fruits.pop();
+// fruits.pop(); -> menghilangkan index yang terakhir
 // console.log(fruits)
 
 // //looping
@@ -27,7 +27,7 @@ let namapanjang = "ahmad soleh mihardi"
 // )
 
 // //spreet array
-// let result = [...fruits].reverse();
+// let result = [...fruits].reverse(); -> metod merubah urutan index pada array  
 // console.log(result)
 
 //add 2 array
