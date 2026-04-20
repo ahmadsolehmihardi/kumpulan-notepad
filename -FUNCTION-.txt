@@ -1,0 +1,35 @@
+*-FUNCTION-*
+
+1. Dasar Function
+- Apa itu function
+- Cara membuat function
+- Parameter & argument
+- Return value
+
+2. Function Expression & Arrow Function
+- Function expression
+- Arrow function
+- Perbedaan dengan function biasa
+
+3. Scope & Closure
+- Global vs local scope
+- Closure
+
+4. Callback Function
+- Callback
+- Higher-order function
+
+5. Function di Array
+- map()
+- filter()
+- reduce()
+
+6.Asynchronous Function
+- setTimeout
+- Promise
+- async/await
+
+7. Advanced Function (Menuju Mahir 🚀)
+- Currying
+- Memoization
+- Recursion
