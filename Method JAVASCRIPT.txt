@@ -70,3 +70,12 @@ confirm()
 prompt()
 localStorage.setItem()
 localStorage.getItem()
+
+11. method yang berkaitan dengan API
+- .setItem() -> Digunakan untuk menyimpan data dalam bentuk key-value (string).
+- .getItem() -> Mengambil data dari storage
+- .removeItem() -> Menghapus data tertentu
+- .clear() -> Menghapus semua data di storage
+- .key(index) -> Mengambil nama key berdasarkan urutan
+- .length -> Mengetahui jumlah data yang tersimpan
+- 
