@@ -1,0 +1,4 @@
+rumusan di CSS :
+
+1. clamp() -> dapat merubah ukuran, biasa di pakai pada font-size. jadi pada saat responsive design tidak perlu di gunakan font-size lagi.
+ - contoh : clamp(min, preferred, max) atau clamp(2rem, 4vw, 3.2rem)
