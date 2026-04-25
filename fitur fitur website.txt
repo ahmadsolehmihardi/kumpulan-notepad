@@ -1,0 +1,37 @@
+* Fitur yang hampir selalu dibutuhkan
+- Header & Navigasi (menu jelas, CTA seperti “Daftar/Masuk”)
+- Halaman Utama yang ringkas + tombol CTA
+- Tentang Kami / Profile
+- Kontak (form kontak + WhatsApp/email)
+- Footer (alamat/perusahaan, link penting, sosial media)
+- Responsif mobile
+- SEO dasar (judul halaman, meta description, struktur heading)
+
+* Fitur engagement & konversi
+- Form kontak / lead form (nama, email, pesan)
+- Newsletter / subscribe
+- Live chat / WhatsApp floating button
+- Testimoni / review
+- FAQ (mengurangi pertanyaan berulang)
+- Galeri / portofolio (untuk jasa/produk)
+- Pricing / paket (jika layanan/produk berbayar)
+
+* Fitur konten & kepercayaan
+- Blog / artikel (untuk edukasi dan SEO)
+- Dokumentasi / Panduan (kalau produk kompleks)
+- Statis informasi: syarat & ketentuan, kebijakan privasi, cookie policy
+
+* Fitur transaksi & akun (kalau relevan)
+- Login / Register
+- Dashboard pengguna
+- Keranjang & Checkout (e-commerce)
+- Pembayaran (midtrans/stripe/transfer—tergantung platform)
+- Riwayat transaksi / status pesanan
+- Email notifikasi (konfirmasi, reset password, status)
+
+* Fitur teknis yang sering dicari
+- Search internal (pencarian artikel/produk)
+- 404 page yang ramah
+- Tracking analytics (Google Analytics / Meta Pixel)
+- Sitemap & robots.txt
+- Keamanan: reCAPTCHA, rate limit, HTTPS (wajib)
