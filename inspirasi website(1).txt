@@ -4,7 +4,9 @@ inspirasi website :
 3. https://manage.wix.com/account/explore/inspiring-websites
 4. https://www.squarespace.com/templates/wesley-fluid-demo
 5. https://commercecream.com/
-7. https://www.awwwards.com/inspiration_search/
+7. https://www.awwwards.com/inspiration_search/ -> lebih cocok untuk portfolio development
+8. https://webflow.com/templates/search?query=company%20profile
+9. https://www.siteinspire.com/search?query=agency
 
 landing page:
 6. https://www.landingfolio.com/
@@ -14,3 +16,10 @@ landing page:
 target website :
 1. hotel
 2. restoran
+
+ kata kunci company profile :
+“company profile website”
+“corporate website”
+“agency corporate”
+“industrial company profile” (kalau industrimu spesifik)
+“about us website design”
